@@ -68,3 +68,8 @@ body::-webkit-scrollbar {
     display: flex;
     justify-content: space-around;
 }
+
+.inner_nav {
+    text-decoration: none;
+    /* display: none; */
+}
